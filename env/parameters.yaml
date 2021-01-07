@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jenkinsx/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: tonny.kusdarwanto@gmail.com
+  token: local:jenkinsx/pipelineUser:token
+  username: txcom-bot
+prow:
+  hmacToken: local:jenkinsx/prow:hmacToken
