@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: TXCOM-CORP
+  repo: spring-boot-http-gradle
+  url: https://github.com/TXCOM-CORP/spring-boot-http-gradle.git
+  version: ""
+  versionURL: ""
