@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: TXCOM-CORP
+    provider: github
+    repository: express-hello
+  name: txcom-corp-express-hello
+spec:
+  description: Imported application for TXCOM-CORP/express-hello
+  httpCloneURL: https://github.com/TXCOM-CORP/express-hello.git
+  org: TXCOM-CORP
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: express-hello
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/TXCOM-CORP/express-hello.git

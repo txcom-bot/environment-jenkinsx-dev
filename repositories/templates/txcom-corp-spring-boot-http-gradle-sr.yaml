@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: TXCOM-CORP
+    provider: github
+    repository: spring-boot-http-gradle
+  name: txcom-corp-spring-boot-http-gradle
+spec:
+  description: Imported application for TXCOM-CORP/spring-boot-http-gradle
+  httpCloneURL: https://github.com/TXCOM-CORP/spring-boot-http-gradle.git
+  org: TXCOM-CORP
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: spring-boot-http-gradle
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/TXCOM-CORP/spring-boot-http-gradle.git

@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: TXCOM-CORP
+  repo: express-hello
+  url: https://github.com/TXCOM-CORP/express-hello.git
+  version: ""
+  versionURL: ""
